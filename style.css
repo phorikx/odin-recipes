@@ -1,0 +1,28 @@
+body{
+  background-color: #eeeee4;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+h1{
+  color: #873e23;
+  font-family: Arial;
+}
+
+h2{
+  color:#e28743;
+  font-family:Arial;
+}
+
+p{
+  font-family: Verdana;
+}
+
+ul{
+  list-style-type: square;
+}
+
+a{
+  color: #063970;
+  text-decoration: none;
+}
